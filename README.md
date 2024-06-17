@@ -1,6 +1,6 @@
 # Responsive and Adaptive: First Project
 
-![Product Overview](https://github.com/bstawy/Responsive-and-Adaptive-first-project/assets/99258115/1fd285a0-9ede-4dff-8516-d8cd48f00fba)
+![Product Overview](https://github.com/bstawy/Responsive-and-Adaptive-first-project/assets/99258115/e0fe5376-9303-4f1a-a46e-82bca321c3e7)
 
 &nbsp;
 
